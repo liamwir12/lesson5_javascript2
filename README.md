@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 31, 2018
 
 ### Student Name:  
-(First and Last Name)
+Liam Wirsansky
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project allows the student to practice various javascript coding techniques, such as declaring and initalizing variables, utilizing different methods and functions, and calculating values through selection statements, all culminating in the creation of a program that calculates the currency exchange for US dollars to several other countries' currency. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://liamwir12.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. If you want to utilize and initialize a variable you can first declare it using the keyword "var" so that the function recognizes it as a local variable, then assign the variable a value.
+2. Selection statements can be used to give the program different options of code that are selected based on the the value of the user's controlling expression.
+3. If you want your webpage to have a drop down list, simply utilize multiple option tags under a parent node of a select tag and input their values, the first starting at "0".
 
